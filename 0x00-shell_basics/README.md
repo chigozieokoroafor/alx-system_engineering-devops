@@ -1,1 +1,1 @@
-1-listit kists all items in the current working directory when you run './1-listit'
+2-bring_me_home changes the working directory to the home directory
