@@ -1,1 +1,1 @@
-0-current_working_directory contains the command for listing  absolute path name of the current working directory
+1-listit kists all items in the current working directory when you run './1-listit'
