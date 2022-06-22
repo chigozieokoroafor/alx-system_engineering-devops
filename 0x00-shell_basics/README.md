@@ -1,1 +1,3 @@
-2-bring_me_home changes the working directory to the home directory
+3-listfiles lists the contents of a directory in a long format
+3-listfiles lists the contents of a directory in a long format
+3-listfiles lists the contents of a directory in a long format
