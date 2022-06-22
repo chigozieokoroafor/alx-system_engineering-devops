@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -an -a -G
+ls -an -lh --time-style=+  
