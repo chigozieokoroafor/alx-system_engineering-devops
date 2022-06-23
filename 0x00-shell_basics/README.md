@@ -7,3 +7,4 @@
 7-movethatfile moves betty to my_first_dirctory in tmp
 made an executable to delete files based on their location
 9-firstdirdeletion deletes directory in the mp directory
+10-back takes back to the previous directory
