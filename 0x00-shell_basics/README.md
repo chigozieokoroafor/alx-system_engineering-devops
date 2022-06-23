@@ -6,3 +6,4 @@
 6-firstdirectory creates a directory in te tmp directory
 7-movethatfile moves betty to my_first_dirctory in tmp
 made an executable to delete files based on their location
+9-firstdirdeletion deletes directory in the mp directory
