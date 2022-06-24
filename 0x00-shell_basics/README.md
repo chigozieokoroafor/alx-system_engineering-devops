@@ -8,3 +8,4 @@
 made an executable to delete files based on their location
 9-firstdirdeletion deletes directory in the mp directory
 10-back takes back to the previous directory
+11-lists lists items in a particular directory
