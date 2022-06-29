@@ -2,3 +2,4 @@
 1-hello_you prints hello and the current user
 2-path adds path to preexisting path and exports it
 3-paths returns directory count
+4-global-variable is used for getting rents from papaers
