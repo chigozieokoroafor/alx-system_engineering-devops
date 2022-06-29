@@ -3,3 +3,4 @@
 2-path adds path to preexisting path and exports it
 3-paths returns directory count
 4-global-variable is used for getting rents from papaers
+5-local_variables prints all variables
