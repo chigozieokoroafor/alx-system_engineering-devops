@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -e "printf('%0.2f', $NUM)"
